@@ -1,0 +1,11 @@
+C:\Users\ANBU_BlackOps\Documents\Projects\camera\camera\obj\Debug\assemblies\camera.dll
+C:\Users\ANBU_BlackOps\Documents\Projects\camera\camera\obj\Debug\assemblies\GooglePlayServicesLib.dll
+C:\Users\ANBU_BlackOps\Documents\Projects\camera\camera\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\ANBU_BlackOps\Documents\Projects\camera\camera\obj\Debug\assemblies\mscorlib.dll
+C:\Users\ANBU_BlackOps\Documents\Projects\camera\camera\obj\Debug\assemblies\System.Core.dll
+C:\Users\ANBU_BlackOps\Documents\Projects\camera\camera\obj\Debug\assemblies\System.dll
+C:\Users\ANBU_BlackOps\Documents\Projects\camera\camera\obj\Debug\assemblies\System.Xml.dll
+C:\Users\ANBU_BlackOps\Documents\Projects\camera\camera\obj\Debug\assemblies\Xamarin.Android.Support.v13.dll
+C:\Users\ANBU_BlackOps\Documents\Projects\camera\camera\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\ANBU_BlackOps\Documents\Projects\camera\camera\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ANBU_BlackOps\Documents\Projects\camera\camera\obj\Debug\assemblies\Xamarin.Android.Support.v7.MediaRouter.dll

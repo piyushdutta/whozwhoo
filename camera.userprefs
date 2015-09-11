@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="camera\camera.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.kitkat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="camera\MainActivity.cs">
+    <Files>
+      <File FileName="camera\MainActivity.cs" Line="78" Column="18" />
+      <File FileName="camera\Resources\values\Strings.xml" Line="3" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.camera AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

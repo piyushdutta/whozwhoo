@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <AdditionalAndroidResourcePaths>C:\Users\ANBU_BlackOps\AppData\Local\Xamarin\Android.Support.v7.AppCompat\20.0.0\content\support\v7\appcompat;C:\Users\ANBU_BlackOps\AppData\Local\Xamarin\Android.Support.v7.MediaRouter\19.1.0\content\support\v7\mediarouter</AdditionalAndroidResourcePaths>
+  <AdditionalJavaLibraryReferences>C:\Users\ANBU_BlackOps\AppData\Local\Xamarin\Android.Support.v13\20.0.0\content\support\v13\android-support-v13.jar;C:\Users\ANBU_BlackOps\AppData\Local\Xamarin\Android.Support.v7.AppCompat\20.0.0\content\support\v7\appcompat\libs\android-support-v7-appcompat.jar;C:\Users\ANBU_BlackOps\AppData\Local\Xamarin\Android.Support.v7.MediaRouter\19.1.0\content\support\v7\mediarouter\libs\android-support-v7-mediarouter.jar</AdditionalJavaLibraryReferences>
+  <AdditionalNativeLibraryReferences></AdditionalNativeLibraryReferences>
+</Paths>

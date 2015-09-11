@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "camera", "camera\camera.csproj", "{5BCBD4DB-16A7-4A23-B4EF-7DC57D29AB1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "camera.UITests", "camera.UITests\camera.UITests.csproj", "{23B44A9C-A330-4A4E-89BC-091795F9EBF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B44A9C-A330-4A4E-89BC-091795F9EBF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B44A9C-A330-4A4E-89BC-091795F9EBF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B44A9C-A330-4A4E-89BC-091795F9EBF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B44A9C-A330-4A4E-89BC-091795F9EBF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BCBD4DB-16A7-4A23-B4EF-7DC57D29AB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCBD4DB-16A7-4A23-B4EF-7DC57D29AB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCBD4DB-16A7-4A23-B4EF-7DC57D29AB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCBD4DB-16A7-4A23-B4EF-7DC57D29AB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
